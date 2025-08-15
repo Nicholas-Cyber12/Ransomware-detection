@@ -1,0 +1,7 @@
+[2025-08-15 16:10:23] Encrypted: ../samples/infected_files/sample1.txt.enc
+[2025-08-15 16:10:23] Encrypted: ../samples/infected_files/sample2.txt.enc
+[2025-08-15 16:10:23] Encrypted: ../samples/infected_files/sample3.txt.enc
+[2025-08-15 16:10:23] Ransom note dropped at ../samples/infected_files/READ_ME_NOW.txt
+[2025-08-15 16:12:00] DETECTED: sample1.txt.enc
+[2025-08-15 16:12:00] DETECTED: sample2.txt.enc
+[2025-08-15 16:12:00] DETECTED: sample3.txt.enc
