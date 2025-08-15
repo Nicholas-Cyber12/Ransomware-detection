@@ -9,6 +9,9 @@ Simulated a ransomware attack on a Windows-like file system using Python. Create
 - Generate ransomware-like activity in a safe environment.
 - Detect suspicious file modifications.
 - Produce actionable logs.
+- 
+## Analyst
+Nicholas Mabaso
 
 ## Tools Used
 - Python 3
